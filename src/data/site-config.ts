@@ -8,9 +8,9 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Maresa Weisshaar',
+    subtitle: 'Product Owner & Business Analystin · Logistik & Mobility',
+    description: 'Freiberufliche Product Owner & Business Analystin für B2B-Software, Schwerpunkt Logistik & Mobility. Requirements Engineering, AI-Use-Cases, Backlog bis Go-Live – agil mit Scrum.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -19,6 +19,14 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
+        },
+        {
+            text: 'About',
+            href: '/about'
+        },
+        {
+            text: 'CV',
+            href: '/cv'
         },
         {
             text: 'Projects',
@@ -37,6 +45,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
+        },
+        {
+            text: 'CV',
+            href: '/cv'
         },
         {
             text: 'Contact',
@@ -66,15 +78,16 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hi, ich bin Maresa.\nProduct Owner & Business Analystin für B2B-Software – Logistik & Mobility',
+        tagline: `Ich frage so lange „Warum", bis das echte Problem klar ist.\nUnd mache aus unklaren Anforderungen Produkte, die wirklich gebraucht werden.`,
+        text: `Seit 2026 bin ich freiberufliche Product Ownerin, Business Analystin und Requirements Engineer für B2B-Softwareprojekte mit Fokus auf Logistik & Mobility.\n\nIch begleite Produkte von der Discovery bis zum Go-Live: User Research, Requirements Engineering, Backlog-Management, Refinement und Qualitätssicherung – am liebsten agil, mit Scrum/ Kanban und den Tools, die dein Team schon nutzt (Jira, Confluence, Azure DevOps).\n\nAI ist Teil meiner Arbeit. Ich übersetze Geschäftsprozesse in validierte KI-Use-Cases mit messbarem Business Value, von der ersten Idee bis zum Betrieb, mit klarem Blick auf Risiken und Compliance. Statt zu schnell zu entwickeln, validiere ich zuerst das echte Problem und prüfe, ob und wie KI wirklich Nutzen stiftet.`,
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: "Let's talk about your projects",
                 href: '/contact'
             }
         ]

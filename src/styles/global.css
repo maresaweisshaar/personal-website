@@ -1,6 +1,4 @@
-@import '@fontsource-variable/inter' layer(base);
-@import '@fontsource-variable/newsreader' layer(base);
-@import '@fontsource-variable/newsreader/wght-italic.css' layer(base);
+@import '@fontsource-variable/instrument-sans' layer(base);
 
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
@@ -9,8 +7,8 @@
 
 :root {
     --text-main: #171717;
-    --bg-main: #f2f1ec;
-    --bg-muted: #eae9e1;
+    --bg-main: #e8e8e8;
+    --bg-muted: #dedede;
     --border-main: #171717;
 }
 html.dark {
@@ -53,12 +51,16 @@ html.dark {
 */
 
 @theme inline {
-    --font-sans: 'Inter Variable', sans-serif;
-    --font-serif: 'Newsreader Variable', serif;
+    --font-sans: 'Instrument Sans Variable', sans-serif;
+    --font-serif: 'Instrument Sans Variable', sans-serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
     --background-color-muted: var(--bg-muted);
     --border-color-main: var(--border-main);
+}
+
+body {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='0.22'/%3E%3C/svg%3E");
 }
 
 @layer utilities {
@@ -85,11 +87,15 @@ html.dark {
     }
 
     .prose :where(h1, h2, h3, h4, h5, h6) {
-        @apply font-serif font-medium;
+        @apply font-serif font-bold;
     }
 
     .prose :where(code, strong) {
         @apply font-medium;
+    }
+
+    .prose :where(p) {
+        @apply text-[14px] sm:text-[16px];
     }
 
     .prose blockquote {

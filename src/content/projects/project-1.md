@@ -1,66 +1,62 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Last-Mile Delivery Platform – Enterprise-Wide Rollout'
+description: Ideation bis Rollout eines Transportation Management System für die Letzte Meile bei Lufthansa Industry Solutions – von der Anforderungsanalyse bis zum deutschlandweiten Go-Live.
+publishDate: 'Oct 2 2023'
+isFeatured: true
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '../../assets/images/project-2.jpg'
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-1.jpg)
+![Project preview](../../assets/images/project-2.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Kundenprojekt der Lufthansa Industry Solutions**
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Ideation bis Rollout eines Transportation Management System (TMS) für die Letzte Meile. Zur Ablösung eines Altsystems wurden Geschäftsprozesse aufgerollt, hinterfragt und neu gedacht, um schließlich ein customized modular Product zu entwickeln, das alle identifizierten Use Cases bedient. Meine Rolle: Anforderungen der Standort-Teams erfassen, priorisieren, spezifizieren, neu zusammensetzen und die cross-funktionale Entwicklung koordinieren. Die Herausforderung war, dezentrale Nutzer-Bedürfnisse deutschlandweit in ein konsistentes System zu übersetzen und dabei Komplexität zu reduzieren.
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+- Logistik-Prozesse der Letzten Meile digitalisieren und standardisieren
+- Cross-funktionale und internationale Entwicklerteams koordinieren
+- Nutzer-Bedürfnisse (Disponenten, Standortleitern, Lager Mitarbeitenden etc.) in klare Anforderungen übersetzen
+- Erfolgreichen Roll-Out über alle Logistikstandorte deutschlandweit koordinieren
+- Iterative Entwicklung mit kontinuierlichem Nutzer-Feedback
 
 ## Features
 
-1. **EcoScore and Challenges:**
+1. **User Discovery & Requirements Analysis**
+   - User Interviews mit Disponenten, Standort-Leitern, Stakeholdern
+   - Prozess-Mapping der Last-Mile-Workflows
+   - Workflow-Validierung mit Fachbereichen vor Umsetzung
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+2. **Backlog Management & Prioritization**
+   - Sprint Planning & Refinement & Review (alle 3 Wochen mit User-Sessions)
+   - Priorisierung zwischen conflicting Standort-Anforderungen
+   - Abhängigkeits-Management (Technische Abhängigkeiten und Schnittstellen)
 
-2. **Personalized Eco-Goals:**
+3. **Requirements Engineering & Specification**
+   - User Stories & Akzeptanzkriterien für jedes Feature
+   - Technische Spezifikationen für die Dev-Teams
+   - Edge-Case-Dokumentation
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+4. **UX/Design Collaboration**
+   - Wireframes & Annotationen für mobile & Desktop-Workflows
+   - Design-Reviews mit echten Nutzern an Standorten
+   - Usability-Testing vor Feature-Release
 
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+5. **Quality Assurance & Go-Live Management**
+   - Akzeptanz-Testing mit Pilot-Gruppen an Standorten
+   - Pilot-Phase Koordination & Feedback-Integration
+   - Rollout-Planung und -Koordination deutschlandweit
 
 ## Technology Stack
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+- Jira, Confluence (Backlog & Dokumentation)
+- Miro (Prozess-Mapping)
+- Figma (Mockups, UX-Flows)
+- Mobile & Web-Plattform
 
 ## Outcome
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Der deutschlandweite Go-Live des MVP war erfolgreich. Das System standardisierte Prozesse, reduzierte manuelle Tätigkeiten und ermöglicht somit mehr Transparenz über Lieferabläufe. Durch die Einbindung der Nutzer in Prozessanalysen und Testing konnte Feedback schnell integriert werden. Das führte zu einer hohen Akzeptanz des Systems beim Go-Live. Das Projekt demonstriert: Tiefe User Research und iteratives Feedback machen Produkte robust und anpassungsfähig. Schnelle Iterationen und Fokus auf essenzielle Features ermöglichen auch bei Skalierung auf zahlreiche Standorte funktionsfähige Lösungen.

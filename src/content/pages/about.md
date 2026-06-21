@@ -1,43 +1,38 @@
 ---
 title: About
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: Über mich – Maresa Weisshaar, Product Ownerin & Business Analystin
+  description: Product Ownerin und Business Analystin in Berlin mit Schwerpunkt KI. Ich übersetze Geschäftsprozesse in validierte KI-Use-Cases mit messbarem Business Value.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Maresa Weisshaar, Product Ownerin & Business Analystin aus Berlin
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
+![Maresa Weisshaar, Product Ownerin & Business Analystin aus Berlin](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+Hallo, ich bin Maresa. Auf dieser Seite erfährst du mehr darüber, wer ich bin, was ich über KI denke, wie ich damit arbeite und was mich antreibt. Seit 2026 arbeite ich freiberuflich als Product Ownerin und Business Analystin in Softwareprojekten, mit Schwerpunkt B2B und KI. Ich bin die Schnittstelle zwischen den Auftraggeber:innen, Entwickler:innen und Nutzer:innen digitaler Produkte. Meine Aufgabe: Sprachen übersetzen und dafür sorgen, dass das Richtige entsteht, nicht nur irgendetwas, das funktioniert.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+<a href="/cv" class="no-underline! inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-transparent border border-main rounded-full transition-colors hover:bg-[#F2DCEF]">Meinen Lebenslauf ansehen</a>
 
-## Skills and Expertise
+## Wie ich KI nutze
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+KI ist nicht nur Teil meiner Arbeit. Sie ist sogar in meine privaten Projekte integriert. Ich nutze sie als Sparringspartner, Challenger und kreative Unterstützerin. Ich nehme wahr, dass davon auch Unternehmen zunehmend profitieren. KI als Werkzeug im Unternehmen. Mit klaren Grenzen und Richtlinien.
 
-## Innovation and Problem-Solving
+## Wie ich arbeite
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Ich springe nicht zur Lösung, bevor ich das Problem verstanden habe. Bevor entwickelt wird, validiere ich das echte Problem: Wozu braucht der Nutzer das wirklich? Ich frage so lange Warum, bis der Kern klar ist.
 
-## Global Perspective, Local Impact
+Ich bin von Grund auf analytisch und schätze den Dialog, um durch tiefe Fragen auf Antworten zu stoßen. Mein Maßstab ist nicht das perfekte Detail, sondern der echte Nutzerwert. Am liebsten direkt als MVP geliefert, an dem wir gemeinsam lernen. Komplexität reduziere ich, statt sie draufzupacken. In der Praxis arbeite ich gerne mit Jira, Confluence, Notion und Miro.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Meine KI-Überzeugung
 
-## Continuous Learning
+Die KI-Transformation eröffnet Unternehmen neue Lösungsansätze und Wachstumspotenziale. Und nicht nur Technologien, auch die (Unternehmens-)Kultur wandelt sich rasant. Ich bin davon überzeugt, dass die Vorteile von KI für alle zugänglich, sicher und integrativ sein müssen. Wird diese Verantwortung von Anfang an mitgedacht, lösen wir die Herausforderungen von heute und morgen für Menschen, Unternehmen und Gesellschaft.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Was mich antreibt
 
-## Collaboration and Communication
+Verantwortung ist für mich kein Wort für Hochglanz-Folien. Neben meiner Arbeit als Product Ownerin habe ich das Startup coffeebridge gUG mitgegründet: coffeebridge importiert Kaffee im direkten Handel mit Farmer:innen in Uganda. Alle Gewinne fließen zurück in sozial-ökologische Projekte in Uganda. Gerechtigkeit, Fairness, Transparenz und offene Kommunikation leiten mich auch in Projekten. Technologie ist dann gut, wenn sie echten Nutzen für echte Menschen schafft.
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+## Lass uns sprechen
 
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Du suchst jemanden, der KI-Produkte von der Idee bis zum Betrieb verantwortet? Oder einen Sparringspartner, der dein PO-Team auf dem Weg zu selbstsicheren Product Ownern mit KI begleitet? Dann schreib mir.
