@@ -3,7 +3,7 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://maresaweisshaar.de',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
@@ -33,12 +33,8 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
@@ -55,26 +51,22 @@ const siteConfig: SiteConfig = {
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Haftung',
             href: '/terms'
         },
         {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'Impressum',
+            href: '/impressum'
+        },
+        {
+            text: 'Datenschutz',
+            href: '/datenschutz'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/maresa-weisshaar-coffeebridge'
         }
     ],
     hero: {
@@ -87,7 +79,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: "Let's talk about your projects",
+                text: "Lass uns über dein Projekt sprechen",
                 href: '/contact'
             }
         ]

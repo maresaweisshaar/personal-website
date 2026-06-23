@@ -1,14 +1,14 @@
 ---
-title: Get in touch
+title: Kontakt
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Kontakt
+  description: Schreib mir per E-Mail oder vernetze dich mit mir auf LinkedIn. Ich freue mich, von dir zu hören!
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Schön, dass du da bist! Egal ob du eine Frage hast, eine Idee teilen möchtest oder einfach Hallo sagen möchtest – ich freue mich, von dir zu hören. Melde dich gern über einen der folgenden Wege:
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+_E-Mail:_
+Schreib mir einfach an [kontakt@maresaweisshaar.de](mailto:kontakt@maresaweisshaar.de). Ich melde mich so schnell wie möglich zurück.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+_LinkedIn:_
+Vernetze dich mit mir auf [LinkedIn](https://www.linkedin.com/in/maresa-weisshaar-coffeebridge).

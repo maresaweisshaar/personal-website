@@ -1,7 +1,7 @@
 ---
 title: 'Last-Mile Delivery Platform – Enterprise-Wide Rollout'
-description: Ideation bis Rollout eines Transportation Management System für die Letzte Meile bei Lufthansa Industry Solutions – von der Anforderungsanalyse bis zum deutschlandweiten Go-Live.
-publishDate: 'Oct 2 2023'
+description: Ideation bis Rollout eines Transportation Management System für die Letzte Meile bei einem Kunden aus der Logistik (KEP) – von der Anforderungsanalyse bis zum deutschlandweiten Go-Live.
+publishDate: 'Juni 23 2026'
 isFeatured: true
 seo:
   image:
@@ -11,7 +11,7 @@ seo:
 
 ![Project preview](../../assets/images/project-2.jpg)
 
-**Kundenprojekt der Lufthansa Industry Solutions**
+**Projekt bei einem Kunden der KEP/Logistik Branche**
 
 Ideation bis Rollout eines Transportation Management System (TMS) für die Letzte Meile. Zur Ablösung eines Altsystems wurden Geschäftsprozesse aufgerollt, hinterfragt und neu gedacht, um schließlich ein customized modular Product zu entwickeln, das alle identifizierten Use Cases bedient. Meine Rolle: Anforderungen der Standort-Teams erfassen, priorisieren, spezifizieren, neu zusammensetzen und die cross-funktionale Entwicklung koordinieren. Die Herausforderung war, dezentrale Nutzer-Bedürfnisse deutschlandweit in ein konsistentes System zu übersetzen und dabei Komplexität zu reduzieren.
 
