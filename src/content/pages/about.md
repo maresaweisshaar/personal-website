@@ -13,7 +13,7 @@ seo:
 
 Hallo, ich bin Maresa. Auf dieser Seite erfährst du mehr darüber, wer ich bin, was ich über KI denke, wie ich damit arbeite und was mich antreibt. Seit 2026 arbeite ich freiberuflich als Product Ownerin und Business Analystin in Softwareprojekten, mit Schwerpunkt B2B und KI. Ich bin die Schnittstelle zwischen den Auftraggeber:innen, Entwickler:innen und Nutzer:innen digitaler Produkte. Meine Aufgabe: Sprachen übersetzen und dafür sorgen, dass das Richtige entsteht, nicht nur irgendetwas, das funktioniert.
 
-<a href="/cv" class="no-underline! inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-transparent border border-main rounded-full transition-colors hover:bg-[#DAFC92]">Meinen Lebenslauf ansehen</a>
+<a href="/cv" class="no-underline! inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-transparent border border-main rounded-full transition-colors hover:bg-[#DAFC92] active:bg-[#DAFC92]">Meinen Lebenslauf ansehen</a>
 
 ## Wie ich KI nutze
 
@@ -37,4 +37,4 @@ Verantwortung ist für mich kein Wort für Hochglanz-Folien. Neben meiner Arbeit
 
 Du suchst jemanden, der KI-Produkte von der Idee bis zum Betrieb verantwortet? Oder einen Sparringspartner, der dein PO-Team auf dem Weg zu selbstsicheren Product Ownern mit KI begleitet? Dann schreib mir.
 
-<a href="/contact" class="no-underline! inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-transparent border border-main rounded-full transition-colors hover:bg-[#DAFC92]">Lass uns sprechen</a>
+<a href="/contact" class="no-underline! inline-flex items-center justify-center px-6 py-2 font-serif leading-tight italic text-main bg-transparent border border-main rounded-full transition-colors hover:bg-[#DAFC92] active:bg-[#DAFC92]">Lass uns sprechen</a>
