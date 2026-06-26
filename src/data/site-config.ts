@@ -70,7 +70,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi, ich bin Maresa.\nProduct Owner & Business Analystin für B2B-Software – Logistik & Mobility',
+        title: 'Hi, ich bin Maresa.\nProduct Owner & Business Analystin für\nB2B-Software – Logistik & Mobility',
         tagline: `Ich frage <em>Warum</em>, bis ich das echte <u>Problem</u> verstehe.\nDann ist die <u>Lösung</u> oft näher als gedacht.`,
         text: `Seit 2026 bin ich freiberufliche Product Ownerin, Business Analystin und Requirements Engineer für B2B-Softwareprojekte mit Fokus auf Logistik & Mobility.\n\nIch begleite Produkte von der Discovery bis zum Go-Live: User Research, Requirements Engineering, Backlog-Management, Refinement und Qualitätssicherung – am liebsten agil, mit Scrum/ Kanban und den Tools, die dein Team schon nutzt (Jira, Confluence, Azure DevOps).\n\nAI ist Teil meiner Arbeit. Ich übersetze Geschäftsprozesse in validierte KI-Use-Cases mit messbarem Business Value, von der ersten Idee bis zum Betrieb, mit klarem Blick auf Risiken und Compliance. Statt zu schnell zu entwickeln, validiere ich zuerst das echte Problem und prüfe, ob und wie KI wirklich Nutzen stiftet.`,
         image: {
