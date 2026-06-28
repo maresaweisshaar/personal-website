@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.maresaweisshaar\.de$ [NC]
+RewriteRule ^(.*)$ https://maresaweisshaar.de/$1 [R=301,L]
