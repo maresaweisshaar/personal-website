@@ -14,7 +14,7 @@ const { title, tagline, image, text, actions } = Astro.props;
         <section class="mb-16 flex w-full flex-col gap-8 sm:mb-24">
             {title && (
                 <h1 class="font-serif text-[26px] leading-tight font-bold sm:text-[32px] sm:leading-tight">
-                    {title.split('\n').map((line) => <span class="block">{line}</span>)}
+                    {title.split('\n').map((line, i) => <span class="block">{i > 0 ? ' ' : ''}{line}</span>)}
                 </h1>
             )}
             {image?.src && (
@@ -32,7 +32,7 @@ const { title, tagline, image, text, actions } = Astro.props;
             )}
             {tagline && (
                 <p class="text-[16px] font-medium sm:text-[20px]">
-                    {tagline.split('\n').map((line) => <span class="block" set:html={line} />)}
+                    {tagline.split('\n').map((line, i) => <span class="block" set:html={(i > 0 ? ' ' : '') + line} />)}
                 </p>
             )}
             {text && <div class="prose sm:prose-lg max-w-none" set:html={marked.parse(text)} />}
