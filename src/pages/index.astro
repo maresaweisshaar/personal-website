@@ -15,7 +15,10 @@ const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 ---
 
-<BaseLayout description={siteConfig.description}>
+<BaseLayout
+    title="Product Ownerin & Business Analystin für B2B-Software – Logistik & Mobility"
+    description={siteConfig.description}
+>
     <Hero {...siteConfig.hero} />
     {
         featuredProjects?.length > 0 && (
