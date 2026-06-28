@@ -10,7 +10,7 @@ const siteConfig: SiteConfig = {
     },
     title: 'Maresa Weisshaar',
     subtitle: 'Product Owner & Business Analystin · Logistik & Mobility',
-    description: 'Freiberufliche Product Owner & Business Analystin für B2B-Software, Schwerpunkt Logistik & Mobility. Requirements Engineering, AI-Use-Cases, Backlog bis Go-Live – agil mit Scrum.',
+    description: 'Freiberufliche Product Owner & Business Analystin für B2B-Software. Requirements Engineering, AI-Use-Cases, Backlog bis Go-Live, agil mit Scrum.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
