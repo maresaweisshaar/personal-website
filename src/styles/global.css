@@ -1,4 +1,5 @@
 @import '@fontsource-variable/instrument-sans' layer(base);
+@import '@fontsource-variable/inter' layer(base);
 
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
@@ -52,7 +53,7 @@ html.dark {
 
 @theme inline {
     --font-sans: 'Instrument Sans Variable', sans-serif;
-    --font-serif: 'Instrument Sans Variable', sans-serif;
+    --font-serif: 'Inter Variable', sans-serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
     --background-color-muted: var(--bg-muted);
